@@ -1,0 +1,14 @@
+com/turismo_mobile/MainActivity.java
+ com.turismo_mobile.MainActivity
+com/turismo_mobile/ReactNativeFlipper.java
+ com.turismo_mobile.ReactNativeFlipper
+ com.turismo_mobile.ReactNativeFlipper$1
+ com.turismo_mobile.ReactNativeFlipper$2
+ com.turismo_mobile.ReactNativeFlipper$2$1
+com/turismo_mobile/MainApplication.java
+ com.turismo_mobile.MainApplication
+ com.turismo_mobile.MainApplication$1
+com/turismo_mobile/BuildConfig.java
+ com.turismo_mobile.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
